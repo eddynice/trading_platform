@@ -158,16 +158,20 @@ Enjoy a smooth trading investment experience from us.
                                     <h2>BRONZE PACKAGE</h2>
                                 </div>
                                 <div class="price-prices">
-                                    <h2><small>$</small>49<span>/ mo</span></h2>
+                                   
                                 </div>
                             </div>
                             <div class="price-body">
                                 <div class="price-description">
                                     <ul>
-                                        <li>Personal Trainer</li>
-                                        <li>Special Class</li>
-                                        <li>Free Tutorials</li>
-                                        <li>Group Training</li>
+                                        <li>$500</li>
+                                        <li>5% Referral Bonus</li>
+                                        <li>RIO after 2 Hours</li>
+                                        <li>24/7 Tech Support</li>
+
+
+
+
                                     </ul>
                                 </div>
                             </div>
@@ -182,19 +186,21 @@ Enjoy a smooth trading investment experience from us.
                         <div class="price-item">
                             <div class="price-header">
                                 <div class="price-title">
-                                    <h2>GOLD PACKAGE</h2>
+                                    <h2>SILVER PACKAGE</h2>
                                 </div>
                                 <div class="price-prices">
-                                    <h2><small>$</small>49<span>/ mo</span></h2>
+                                   
                                 </div>
                             </div>
                             <div class="price-body">
                                 <div class="price-description">
                                     <ul>
-                                        <li>Personal Trainer</li>
-                                        <li>Special Class</li>
-                                        <li>Free Tutorials</li>
-                                        <li>Group Training</li>
+                                        <li>  $1500</li>
+                                        <li>7% Referral Bonus</li>
+                                        <li>RIO after 2 HOURS</li>
+                                        <li>24/7 Tech Support</li>
+
+
                                     </ul>
                                 </div>
                             </div>
@@ -212,20 +218,20 @@ Enjoy a smooth trading investment experience from us.
                                     <span>Popular</span>
                                 </div>
                                 <div class="price-title">
-                                    <h2>BRONZE PACKAGE</h2>
+                                    <h2>GOLD PACKAGE</h2>
                                 </div>
                                 <div class="price-prices">
-                                    <h2><small>$</small>99<span>/ mo</span></h2>
+                                    
                                 </div>
                             </div>
                             <div class="price-body">
                                 <div class="price-description">
                                     <ul>
-                                        <li>Personal Trainer</li>
-                                        <li>Special Class</li>
-                                        <li>Free Tutorials</li>
-                                        <li>Group Training</li>
-                                    </ul>
+                                        <li> $3000</li>
+                                        <li>10% Referral Bonus</li>
+                                        <li>RIO after 2 HOURS</li>
+                                        <li>24/7 Tech Support</li>
+                    </ul>
                                 </div>
                             </div>
                             <div class="price-footer">
@@ -239,19 +245,20 @@ Enjoy a smooth trading investment experience from us.
                         <div class="price-item">
                             <div class="price-header">
                                 <div class="price-title">
-                                    <h2>SILVER PACKAGE</h2>
+                                    <h2>PLATINUM PACKAGE</h2>
                                 </div>
                                 <div class="price-prices">
-                                    <h2><small>$</small>149<span>/ mo</span></h2>
+                                    
                                 </div>
                             </div>
                             <div class="price-body">
                                 <div class="price-description">
                                     <ul>
-                                        <li>Personal Trainer</li>
-                                        <li>Special Class</li>
-                                        <li>Free Tutorials</li>
-                                        <li>Group Training</li>
+                                        <li>  $5000</li>
+                                        <li>11% Referral Bonus</li>
+                                        <li>RIO after 2 Hours</li>
+                                        <li>24/7 Tech Support</li>
+    
                                     </ul>
                                 </div>
                             </div>
