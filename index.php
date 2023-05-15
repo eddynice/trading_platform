@@ -144,7 +144,7 @@ Enjoy a smooth trading investment experience from us.
         
         
         <!-- Price Start -->
-        <div class="price">
+        <div class="price" id="price">
             <div class="container">
                 <div class="section-header text-center wow zoomIn" data-wow-delay="0.1s">
                     <p>Weigh Spread Coinage Trading Package</p>

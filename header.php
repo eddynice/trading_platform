@@ -72,9 +72,9 @@
                         <a href="index.php" class="nav-item nav-link active">Home</a>
                         <a href="about.php" class="nav-item nav-link">About</a>
                         <a href="service.php" class="nav-item nav-link">Platform</a>
-                        <a href="price.php" class="nav-item nav-link">Trading</a>
+                    
                         <a href="class.php" class="nav-item nav-link">Testimony</a>
-                        <a href="team.php" class="nav-item nav-link">Package</a>
+                        <a href="package.php"  class="nav-item nav-link">Package</a>
                         <a href="portfolio.php" class="nav-item nav-link">Contact</a>
                         <div class="nav-item dropdown">
                             <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Access</a>
